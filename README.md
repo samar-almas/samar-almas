@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samar Almas</h1>
-<h3 align="center">A passionate developer, designer and freelancer.</h3>
+<h3 align="center">A developer, Data Scientist, Data Analyst, ML Engineer and freelancer.</h3>
 
 - 🔭 I’m currently working on **building my skills.**
 
